@@ -2,6 +2,7 @@
 
 // Copyright @ Model_Media
 
+// Support me @Twitter - https://twitter.com/modelmedia740
 
 const canvas = document.createElement('canvas');
 const ctx = canvas.getContext('2d');
